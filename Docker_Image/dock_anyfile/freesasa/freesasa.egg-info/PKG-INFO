@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: freesasa
+Version: 2.0.2b1
+Summary: Calculate solvent accessible surface areas of proteins
+Home-page: http://freesasa.github.io/
+Author: Simon Mitternacht
+Author-email: UNKNOWN
+License: MIT
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Keywords: structural biology,proteins,bioinformatics
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Topic :: Scientific/Engineering :: Bio-Informatics
+Classifier: Topic :: Scientific/Engineering :: Chemistry
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6

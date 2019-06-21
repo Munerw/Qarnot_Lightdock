@@ -1,0 +1,8 @@
+nose
+numpy
+scipy
+cython
+biopython
+mpi4py
+prody
+freesasa
